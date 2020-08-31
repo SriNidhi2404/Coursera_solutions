@@ -1,0 +1,9 @@
+///adding commentss
+
+steps
+
+1. git status // - to see all the changes made.
+2. git add .   // to add your changes to commit.
+3. git commit -m "commit message"  
+4. git push ss
+
